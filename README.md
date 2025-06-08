@@ -1,4 +1,8 @@
-## Hi there 👋
+### Hi there, I'm Garvit 👋
+- 🎓 B.Tech CSE @ DTU
+- 💻 Passionate about C++, Web Dev, and DSA
+- 📫 Reach me at gandhigarvit01@gmail.com
+
 
 <!--
 **gandhigarvit01/gandhigarvit01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
